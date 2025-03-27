@@ -16,8 +16,8 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Reversi_b305b979",
-            "vmArgs": "--module-path \"F:\\Java\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib\" --add-modules javafx.controls,javafx.fxml"
+            "projectName": "Reversi_f02e73c2",
+            "vmArgs": "--module-path f:\\Java\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
